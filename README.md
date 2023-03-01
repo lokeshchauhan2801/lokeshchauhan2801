@@ -1,5 +1,5 @@
 ![MasterHead](https://www.newus.in/image/full-stack-program-image.gif )
-<h1 align="center">Hi 👋, I'm lokesh chauhan</h1>
+<h1 align="center">Hi 👋, I'm Lokesh Chauhan</h1>
 <h3 align="center">A passionate Python full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshchauhan2801&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshchauhan2801" /> </p>
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Python projects in tkinter**
 
-- 🌱 I’m currently learning **HTML,CSS,Django,React**
+- 🌱 I’m currently learning **HTML, CSS, Django, Bootstrap and React**
 
-- 💬 Ask me about **Python,Mysql(data base),HTML and CSS**
+- 💬 Ask me about **Python, Mysql(Data Base) , HTML and CSS**
 
 - 📫 How to reach me **lokeshchauhan058@gmail.com**
 
