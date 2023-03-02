@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Python projects in tkinter**
 
-- 🌱 I’m currently learning **HTML, CSS, Django, Bootstrap and React**
+- 🌱 I’m currently learning **HTML, CSS, Django, Bootstrap and  React**
 
-- 💬 Ask me about **Python, Mysql(Data Base) , HTML and CSS**
+- 💬 Ask me about **Python, Mysql(Data Base), HTML and CSS**
 
 - 📫 How to reach me **lokeshchauhan058@gmail.com**
 
-- ⚡ Fun fact **Yes I think. I am funny**
+- ⚡ Fun fact **Yes I think.I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
