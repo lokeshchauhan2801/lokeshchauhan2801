@@ -1,16 +1,16 @@
 ![MasterHead](https://www.newus.in/image/full-stack-program-image.gif )
 <h1 align="center">Hi 👋, I'm Lokesh Chauhan</h1>
-<h3 align="center">A passionate Python full-stack developer from India</h3>
+<h3 align="center">A passionate Mern-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshchauhan2801&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshchauhan2801" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Python projects in tkinter**
+- 🔭 I’m currently working on **React + Redux + Saga**
 
-- 🌱 I’m currently learning **HTML, CSS, Django, Bootstrap and  React**
+- 🌱 I’m currently learning **ExpressJS, Nodejs, and MongoDB**
 
-- 💬 Ask me about **Python, Mysql(Data Base), HTML and CSS**
+- 💬 Ask me about **React, HTML, CSS, JavaScript and Mysql(Data Base)*
 
 - 📫 How to reach me **lokeshchauhan058@gmail.com**
 
