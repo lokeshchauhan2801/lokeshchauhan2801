@@ -1,6 +1,6 @@
 ![MasterHead](https://www.newus.in/image/full-stack-program-image.gif )
 <h1 align="center">Hi 👋, I'm Lokesh Chauhan</h1>
-<h3 align="center">A passionate Mern-stack developer from India</h3>
+<h3 align="center">A passionate Full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshchauhan2801&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshchauhan2801" /> </p>
 
