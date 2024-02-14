@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **React + Redux + Saga**
 
-- 🌱 I’m currently learning **ExpressJS, Nodejs, and MongoDB**
+- 🌱 I’m currently learning **ExpressJS, Nodejs, Django and MongoDB**
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript and Mysql(Data Base)*
+- 💬 Ask me about **React, HTML, CSS, JavaScript, Python and Mysql(Data Base)*
 
 - 📫 How to reach me **lokeshchauhan058@gmail.com**
 
